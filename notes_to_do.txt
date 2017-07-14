@@ -1,0 +1,21 @@
+notes 
+
+login at:
+jupyter.gwdg.de with gwdg account
+
+course material via terminal + git clone [url]
+
+changes (to do):
+
+translate other presentations
+I/O (file formats - htf5?)
+plotting (enlarge section?)
+other ways of using python (not only jupyter)
+dictionaries
+prompts
+exceptions
+
+before course:
+send reminder email (including: room, time, GWDG account, maybe try to use login?)
+check the wifi access point in the room
+check if presenter & other equipment works
