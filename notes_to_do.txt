@@ -8,7 +8,7 @@ course material via terminal + git clone [url]
 changes (to do):
 
 translate other presentations
-I/O (file formats - htf5?)
+I/O (file formats - htf5?) - see standard libraries (there is some done on it already)
 plotting (enlarge section?)
 other ways of using python (not only jupyter)
 dictionaries
