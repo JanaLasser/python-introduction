@@ -5,14 +5,56 @@ jupyter.gwdg.de with gwdg account
 
 course material via terminal + git clone [url]
 
+1  Torsten
+2  Guus
+3  Filippo
+4  Torsten
+5  Filippo
+6a  Guus
+6b  Guus
+7  Filippo
+8  Torsten
+9  Guus  (Filippo prepares material)
+
 changes (to do):
 
-I/O (file formats - htf5?) - see standard libraries (there is some done on it already)
-plotting (enlarge section?)
-other ways of using python (not only jupyter)
+order:
+    * append dictionaries to 02-lists
+    * split lesson 6 in two:
+        6a: standard libraries (minus OS)
+        6b: OS and file IO
+        (maybe keep OS in 6a?)
+    * ordering of 6b, 7, 8 is nice and logical: first IO, then compute, then plot
+    * maybe bigger exercise? like compute/plot histogram of letter freqs.
+    * add lesson 9-misc -> just mention prompts, exceptions, other ways of running
+        maybe also more difficult exercise?
+        in general: be present so students can finish old exercises
+
+I/O (file formats - hdf5?) - see standard libraries (there is some done on it already)
+    * find entry in phonebook - basic IO and/or CSV?
+    * similar stuff in lesson 6.
+    * show basic IO, mention that ease-of-use libraries wrap this (CSV, HDF5, CDF, ...)
+    * no HDF5 etc., too difficult
+    * numpy load/save?
+
 dictionaries
+    * we should add this...
+    * reuse phonebook example?
+
+other ways of using python (not only jupyter)
+(mainly mentioning this is possible)
+    * script from terminal in Jupyter
+    * ipython
+    * IDE
+
 prompts
+    * merge with basic IO if it is easy enough
+
 exceptions
+    * low prio: throw Exception("your input was wrong") as means of simple feedback
+
+plotting (enlarge section?)
+    * no change
 
 before course:
 send reminder email (including: room, time, GWDG account, maybe try to use login?)
