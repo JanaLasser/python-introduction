@@ -20,6 +20,7 @@ changes (to do):
 
 order:
     * append dictionaries to 02-lists
+        (done)
     * split lesson 6 in two:
         6a: standard libraries (minus OS)
         6b: OS and file IO
