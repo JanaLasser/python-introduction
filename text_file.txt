@@ -1,0 +1,5 @@
+This is a text file.
+It contains a number of lines,
+that we can read using a for loop.
+Lorum ipsum dolor sit amet.
+This is the last line, which is odd-numbered.
